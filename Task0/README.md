@@ -1,0 +1,4 @@
+I was quite scared to install Ubuntu cause I heard all kind of stories of how the laptop got hanged and stuff . I could'nt do any tasks for the first few weeks because of this issue. I went through many youtube videos and at the same time tried to do Hacker rank ...which was quite difficult for me at the particular time cause I had absolutely zero knowledge in programming languages and abstracting and making algorithms for the problems.
+             Back to ubuntu at last after getting my amrita connect registerd I decided to install Ubuntu.Eventhough I had my doubts I found a quite reliable source in the internet and tried to follow it's procedure .
+             At first my laptop got stuck ....but then after I restarted the whole system and made some changes in my Windows space settings.
+             Anyways after half a day's stuggle I sucessfully installed Ubuntu.
